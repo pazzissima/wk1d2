@@ -29,7 +29,7 @@ end
 
 input = gets.chomp
 if input == "c1"
-  print "Successss! The eggs are super fluffy and delicious. You are full and ready
+  print "Success! The eggs are super fluffy and delicious. You are full and ready
 for the day."
 elsif input =="c2"
   print "You are not hungry this morning, but your taste buds are crying for better."
